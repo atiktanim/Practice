@@ -1,4 +1,10 @@
 div{
     background-color: tomato;
-    padding: 20px;
+    width: 1000px;
+    height: 100px;
+    box-shadow: 10px blueviolet;
+    text-wrap: ;
+    margin: 50px;
+    color: blue;
+    padding-left: 30px;
 }
